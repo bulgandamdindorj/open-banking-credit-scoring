@@ -14,7 +14,10 @@ Traditional assessment relies on bureau history, which leaves 42% of applicants 
 
 Thin-file applicants are declined because they are invisible to the bureau, not because they are proven risks. Their behaviour is both visible and predictive, which supports approving more creditworthy newcomers while also sharpening risk assessment for borrowers who already have credit files. This project used payment behaviour alone by design; richer open-banking variables (income, employment length, household, education) are the next step toward pricing individual risk rather than ranking segments.
 
----
+## Dashboard
+
+![Thin-File Credit Scoring Dashboard](<img width="1267" height="692" alt="Screenshot 2026-07-02 at 7 20 48 PM" src="https://github.com/user-attachments/assets/40f4a3c7-5a71-477f-a740-fa7bf8ea3ceb" />
+)
 
 ## Context
 

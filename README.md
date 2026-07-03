@@ -16,9 +16,7 @@ Thin-file applicants are declined because they are invisible to the bureau, not 
 
 ## Dashboard
 
-![Thin-File Credit Scoring Dashboard](<img width="1267" height="692" alt="Screenshot 2026-07-02 at 7 20 48 PM" src="https://github.com/user-attachments/assets/40f4a3c7-5a71-477f-a740-fa7bf8ea3ceb" />
-)
-
+<img width="1267" height="692" alt="Thin-File Credit Scoring Dashboard" src="https://github.com/user-attachments/assets/40f4a3c7-5a71-477f-a740-fa7bf8ea3ceb" />
 ## Context
 
 Credit assessment in Canada rests on bureau history: a record of prior borrowing and repayment held by Equifax and TransUnion. The model works well for established borrowers and poorly for everyone else. Newcomers, young applicants, and anyone outside the formal credit system present a thin file or no file at all, and are frequently declined not because they are high-risk, but because they are unscored.
